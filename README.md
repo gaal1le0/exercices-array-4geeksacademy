@@ -30,7 +30,7 @@
  - Debes crear un algoritmo usando programación imperativa 
  - Debes crear otro algoritmo usando programación declarativa (filter, split, reduce o cualquierda de ellas que manipulen arrays)
 2. Crea una funcion que limpie el array shit usando programación declarativa (split, join o cualquiera de ellas). La función solo debe dejar los strings como resultado.
-3. Crea una función que calcule la distancia entre dos puntos usando el objeto que yo te proporcionono como Point, debes usar programación imperativa para este ejericio. Tu funcion debe recibir dos parametros, punto a compuesto por las coordenadas (x1,x2) y punto b con las coordenadas (y1,y2) y calcular la distancia (y2-y1, x2-x1).
+3. Crea una función que calcule la distancia entre dos puntos usando el objeto que yo te proporcionono como Point, debes usar programación imperativa para este ejericio. Tu funcion debe recibir dos parametros, punto a compuesto por las coordenadas (x1,x2) y punto b con las coordenadas (y1,y2) y calcular la distancia (x2-x1, y2-y1).
 4. Crear una función que compare los valores de exampleArray2 y exampleArray1 pero que se fije en el tipo. Si el array es más corto debe parar de comparar en el de menor longitud.
 
 ### ¿Cómo entregar el proyecto?
